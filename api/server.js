@@ -3,6 +3,7 @@
 const express = require('express')
 
 //Routers
+const ProjectsRouter = require('./project/router')
 
 
 const server = express()
@@ -10,7 +11,7 @@ const server = express()
 
 
 server.use(express.json())
-
+server.use('/api/projects', ProjectsRouter)
 
 
 server.use((err, req, res) => {
