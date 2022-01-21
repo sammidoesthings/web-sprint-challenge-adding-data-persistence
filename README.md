@@ -10,8 +10,8 @@ You are not allowed to collaborate during the sprint challenge.
 
 ## Project Set Up
 
-- [ ] Run `npm install` to install your dependencies.
-- [ ] Run tests locally executing `npm test`.
+- [x] Run `npm install` to install your dependencies.
+- [x] Run tests locally executing `npm test`.
 
 ## Project Instructions
 
@@ -35,7 +35,7 @@ The project needs some additional NPM dependencies in order to work.
 
 ### Required Scripts
 
-Add `"start"`. `"server"`, `"migrate"` and `"rollback"` scripts to the `package.json` file. The tests depend on these scripts being correct!
+- [x] Add `"start"`. `"server"`, `"migrate"` and `"rollback"` scripts to the `package.json` file. The tests depend on these scripts being correct!
 
 ### Required Tables
 
@@ -101,10 +101,10 @@ Build an API inside the `api` folder with endpoints for:
 
 ## Submission format
 
-- [ ] Submit via Codegrade by pushing commits to your `main` branch on Github.
-- [ ] Check Codegrade before the deadline to compare its results against your local tests.
-- [ ] Check Codegrade on the days following the Sprint Challenge for reviewer feedback.
-- [ ] New commits will be evaluated by Codegrade if pushed _before_ the sprint challenge deadline.
+- [x] Submit via Codegrade by pushing commits to your `main` branch on Github.
+- [x] Check Codegrade before the deadline to compare its results against your local tests.
+- [x] Check Codegrade on the days following the Sprint Challenge for reviewer feedback.
+- [x] New commits will be evaluated by Codegrade if pushed _before_ the sprint challenge deadline.
 
 ## Interview Questions
 
